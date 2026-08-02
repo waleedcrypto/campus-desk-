@@ -1,1 +1,1 @@
-# campus-desk-
+# campus-desk-Campus Desk is a modern multi-school management system built with React and Supabase, featuring institute registration, student management, fee tracking, payment verification, secure authentication, role-based access, and real-time data management.
